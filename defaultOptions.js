@@ -1,4 +1,4 @@
-importScripts("ncageImages.js");
+importScripts("Images.js");
 
 var defaultOptions = {
     settings: {
